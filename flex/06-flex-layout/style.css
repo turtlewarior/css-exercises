@@ -84,5 +84,9 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
-  background-color: #eeeeee;
+}
+
+.footer {
+  background-color: #eee;
+  padding: 20px;
 }
